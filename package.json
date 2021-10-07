@@ -1,0 +1,15 @@
+{
+  "name": "twilio-webhook-dump",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "AGPL-3.0-or-later",
+  "type": "module",
+  "dependencies": {
+    "argon2": "^0.28.2",
+    "better-sqlite3": "^7.4.3",
+    "dotenv": "^10.0.0",
+    "fastify": "^3.22.0",
+    "fastify-formbody": "^5.1.0",
+    "twilio": "^3.68.0"
+  }
+}
